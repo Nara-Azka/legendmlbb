@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body {
+    background-color: wheat;
+}
+h1 {
+    display: flexbox;
+    text-align: center;
+    background-color: rgb(183, 161, 119);
+    border-radius: 9px;
+    font-family: "Bree Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+p {
+    display: flexbox;
+    text-align: left;
+    justify-content: left;
+    color: brown;
+    font-weight: 400;
+    font-size: 16px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+a {
+    text-decoration: none;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+strong {
+    color: #5A3E2B;
+    -webkit-text-stroke: 0.5px;
+    -webkit-text-stroke-color: black;
+    font-size: 16px;
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+.contact {
+    font-weight: 500;
+}
+h1 {
+    color: #602d00;
+}
+#link {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color: blue;
+    text-decoration: underline;
+}
+.special {
+    color: brown;
+    text-decoration: underline;
+}
